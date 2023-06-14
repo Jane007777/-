@@ -1,1 +1,1 @@
-surprise-dev
+apt-get install surprise
