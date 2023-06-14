@@ -1,1 +1,1 @@
-freelut3-dev
+freeglut3-dev
