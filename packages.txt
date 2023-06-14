@@ -1,1 +1,1 @@
-skicit-surprise
+apt-get install surprise
