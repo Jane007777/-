@@ -1,1 +1,1 @@
-apt-get install surprise
+freelut3-dev
