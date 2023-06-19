@@ -1,4 +1,3 @@
 surprise
 pip
 streamlit==1.22.0
-gatherUsageStats = false
