@@ -1,5 +1,4 @@
 surprise
 pip
 streamlit==1.22.0
-[browser]
 gatherUsageStats = false
