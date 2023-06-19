@@ -5,7 +5,7 @@ from surprise import SVD, Dataset, Reader
 
 @st.cache
 def load_data():
-    data_df = pd.read_excel('[final] April 2015 to Nov 30 2019 - Transformed Jester Data - .xlsx', header=None)
+    data_df = pd.read_excel('[final] April 2015 to Nov 30 2019 - Transformed Jester Data - -Copy1.xlsx', header=None)
     data_df = data_df.drop(data_df.columns[0], axis=1)
     data_df.columns = range(data_df.shape[1])
     data_df = data_df.stack().reset_index()
